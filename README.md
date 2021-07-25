@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @MicheleMarson
 - 👀 I’m interested in front end development
 - 🌱 I’m currently learning graphQL, postgres, node.js, git.
-- 💞️ I’m looking to collaborate on ...
 - SKILLS - HTML, CSS, React, Scss, Redux, GIT
 
 <!---
