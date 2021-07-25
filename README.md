@@ -2,7 +2,7 @@
 - 👀 I’m interested in front end development
 - 🌱 I’m currently learning graphQL, postgres, node.js, git.
 - 💞️ I’m looking to collaborate on ...
-- SKILLS - HTML, CSS, React, Less, Redux
+- SKILLS - HTML, CSS, React, Scss, Redux, GIT
 
 <!---
 MicheleMarson/MicheleMarson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
