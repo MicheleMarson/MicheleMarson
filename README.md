@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @MicheleMarson
-- 👀 I’m interested in front end development
 - SKILLS - HTML, CSS, React, Scss, Redux, GIT, styled-components, SQL, python, PHP
 
 <!---
