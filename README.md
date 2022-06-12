@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MicheleMarson
-- SKILLS - HTML, CSS, React, Scss, Redux, GIT, styled-components, SQL, python, PHP
+- SKILLS - HTML, CSS, React, Scss, Redux, GIT, NODE.js, styled-components, SQL, python, PHP
 
 <!---
 MicheleMarson/MicheleMarson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
